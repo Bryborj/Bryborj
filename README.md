@@ -37,7 +37,7 @@
 ## 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/brybor-sh)
-[![Email](https://img.shields.io/badge/Email-contacto@bryborj.com-blue)](mailto:none)
+[![Email](https://img.shields.io/badge/Email-none-blue)](mailto:none)
 
 ---
 
