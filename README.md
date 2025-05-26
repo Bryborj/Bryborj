@@ -30,7 +30,7 @@
 ![GitHub streak](https://streak-stats.demolab.com?user=Bryborj&theme=radical&hide_border=true)
 
 <!-- Contribuciones mensuales -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bryborj&theme=github-compact&area_color=002bff&hide_border=true&color=ffffff&line=ffffff&area=true&custom_title=Grafica de contribucion)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bryborj&theme=github-compact&area_color=002bff&hide_border=true&color=ffffff&line=ffffff&area=true)
 
 ---
 
