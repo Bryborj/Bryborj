@@ -40,5 +40,3 @@
 [![Email](https://img.shields.io/badge/Email-none-blue)](mailto:none)
 
 ---
-
-<sup>✨ Este README se actualiza con gráficas dinámicas usando GitHub Readme Stats y Activity Graph ✨</sup>
