@@ -27,7 +27,7 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryborj&layout=compact&theme=tokyonight-duo&hide_border=true&locale=es&bg_color=FFFFFF00&color=ffffff&line=ffffff&point=ffffff)
 
 <!-- Actividad diaria -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bryborj&theme=tokyonight-duo&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bryborj&theme=dark&border_radius=20&locale=es&short_numbers=true)](https://git.io/streak-stats)
 
 <!-- Contribuciones mensuales -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bryborj&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
