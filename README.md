@@ -21,7 +21,7 @@
 ## 📈 Estadísticas en GitHub
 
 <!-- Gráfica de estadísticas -->
-![Bryborj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryborj&show_icons=true&theme=radical)
+![Bryborj's GitHub stats](https://readme-stats-git-psi.vercel.app/api?username=Bryborj&show_icons=true&theme=radical)
 
 <!-- Lenguajes más usados -->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryborj&layout=compact&theme=tokyonight-duo&hide_border=true&locale=es&bg_color=FFFFFF00&color=ffffff&line=ffffff&point=ffffff)
