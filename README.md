@@ -30,7 +30,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bryborj&theme=dark&border_radius=20&locale=es&short_numbers=true)](https://git.io/streak-stats)
 
 <!-- Contribuciones mensuales -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bryborj&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bryborj&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
