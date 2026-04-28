@@ -10,7 +10,7 @@
 ---
 
 > [!NOTE]
-> Sobre mí
+> ### Sobre mí
 
 - 🎓 Soy **Técnico en Programación** y estudiante de **Ingeniería en Ciencias de la Computación**.
 - 🚀 Actualmente trabajando como **Desarrollador Full Stack (Trainee)**.
