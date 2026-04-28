@@ -1,42 +1,54 @@
-<h1 align="center">Hola, soy Bryan Albino Borges 👋</h1>
-
-<p align="center">
-  Estudiante de Ing. Cs de la Computación apasionado por la inteligencia artificial 🤖, el desarrollo web full stack 🌐 y la resolución de problemas matemáticos 📐. 
-  Colaborador en proyectos como <strong>Portfolio</strong>, <strong>LORD</strong> y <strong>My mind</strong>.
-</p>
-
----
-
-## 🚀 Tecnologías y áreas de interés
-
-- 👨‍💻 Desarrollo Web (React.js, Node.js, Express)
-- 🧠 Inteligencia Artificial y Machine Learning (Scikit-learn, ml-regression)
-- 🧮 Álgebra lineal y optimización
-- 📊 MongoDB, API REST, Axios
-- ✍️ Escritura técnica y ensayos
-- ⚙️ Participación en hackatones y proyectos académicos
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=%3E_+Hola%2C+soy+Bryan+Borges;%3E_+T%C3%A9cnico+en+Programaci%C3%B3n;%3E_+Full+Stack+Developer;%3E_+Entusiasta+de+Linux" alt="Typing SVG" />
+  <h3>Técnico en Programación | Estudiante de Ing. en Ciencias de la Computación | Full Stack Developer</h3>
+  <p>Apasionado por el desarrollo web, la creación de aplicaciones y el ecosistema Linux.</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brybor-sh)
+  [![Portafolio](https://img.shields.io/badge/Sitio_Web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zona-sh-portfolio.vercel.app/)
+</div>
 
 ---
 
-## 📈 Estadísticas en GitHub
+> [!NOTE]
+> Sobre mí
 
-<!-- Gráfica de estadísticas -->
-![Bryborj's GitHub stats](https://readme-stats-git-psi.vercel.app/api?username=Bryborj&show_icons=true&theme=radical)
+- 🎓 Soy **Técnico en Programación** y estudiante de **Ingeniería en Ciencias de la Computación**.
+- 🚀 Actualmente trabajando como **Desarrollador Full Stack (Trainee)**.
+- 🔭 Mi proyecto actual: Desarrollando una **Tienda online enfocada en modelos 3D** y más recursos.
+- 🌱 Aprendiendo y profundizando en: 
+  - Desarrollo de aplicaciones de escritorio.
+  - Administración de entornos **Linux** (Debian y RedHat) a nivel personal, empresarial y de servidor.
+- ⚡ **Fuera de la pantalla:** Disfruto un buen café ☕, las caminatas tranquilas con pláticas relajadas 🚶‍♂️, los videojuegos de simulación y retro 🎮, ver la **Fórmula 1** 🏎️, y escuchar mucha música (principalmente Rap y Electrónica 🎧).
 
-<!-- Lenguajes más usados -->
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryborj&layout=compact&theme=tokyonight-duo&hide_border=true&locale=es&bg_color=FFFFFF00&color=ffffff&line=ffffff&point=ffffff)
+---
 
-<!-- Actividad diaria -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bryborj&theme=dark&border_radius=20&locale=es&short_numbers=true)](https://git.io/streak-stats)
+### Tecnologías y Herramientas
 
-<!-- Contribuciones mensuales -->
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <br>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
+
+---
+
+### Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryborj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryborj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryborj&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de Commits" />
+</div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bryborj&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📫 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/brybor-sh)
-[![Email](https://img.shields.io/badge/Email-none-blue)](mailto:none)
-
----
