@@ -10,7 +10,7 @@
 ---
 
 > [!NOTE]
-> ### Sobre mí
+> Sobre mí
 
 - 🎓 Soy **Técnico en Programación** y estudiante de **Ingeniería en Ciencias de la Computación**.
 - 🚀 Actualmente trabajando como **Desarrollador Full Stack (Trainee)**.
@@ -43,12 +43,13 @@
 ### Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryborj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryborj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryborj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es" alt="Lenguajes más usados" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryborj&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryborj&theme=tokyonight&hide_border=true&background=0D1117&locale=es" alt="Racha de Commits" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bryborj&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bryborj&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Estadistica de commits"/>
+</div>
