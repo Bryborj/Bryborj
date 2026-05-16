@@ -12,7 +12,7 @@
 ### Sobre mí
 
 -  Soy **Técnico en Programación** y estudiante de **Ingeniería en Ciencias de la Computación**.
--  Actualmente trabajando como **Desarrollador Full Stack (Trainee)**.
+-  Actualmente trabajando como **Desarrollador Full Stack**.
 -  Mi proyecto actual: Desarrollando una **Tienda online enfocada en modelos 3D** y más recursos.
 -  Aprendiendo y profundizando en: 
   - Desarrollo de aplicaciones de escritorio.
