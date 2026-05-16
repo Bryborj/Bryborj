@@ -4,21 +4,20 @@
   <p>Apasionado por el desarrollo web, la creación de aplicaciones y el ecosistema Linux.</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brybor-sh)
-  [![Portafolio](https://img.shields.io/badge/Sitio_Web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zona-sh-portfolio.vercel.app/)
+  [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zona-sh-portfolio.vercel.app/)
 </div>
 
 ---
 
-> [!NOTE]
-> Sobre mí
+### Sobre mí
 
-- 🎓 Soy **Técnico en Programación** y estudiante de **Ingeniería en Ciencias de la Computación**.
-- 🚀 Actualmente trabajando como **Desarrollador Full Stack (Trainee)**.
-- 🔭 Mi proyecto actual: Desarrollando una **Tienda online enfocada en modelos 3D** y más recursos.
-- 🌱 Aprendiendo y profundizando en: 
+-  Soy **Técnico en Programación** y estudiante de **Ingeniería en Ciencias de la Computación**.
+-  Actualmente trabajando como **Desarrollador Full Stack (Trainee)**.
+-  Mi proyecto actual: Desarrollando una **Tienda online enfocada en modelos 3D** y más recursos.
+-  Aprendiendo y profundizando en: 
   - Desarrollo de aplicaciones de escritorio.
   - Administración de entornos **Linux** (Debian y RedHat) a nivel personal, empresarial y de servidor.
-- ⚡ **Fuera de la pantalla:** Disfruto un buen café ☕, las caminatas tranquilas con pláticas relajadas 🚶‍♂️, los videojuegos de simulación y retro 🎮, ver la **Fórmula 1** 🏎️, y escuchar mucha música (principalmente Rap y Electrónica 🎧).
+-  **Fuera de la pantalla:** Disfruto un buen café , las caminatas tranquilas con pláticas relajadas, los videojuegos de simulación y retro , ver la **Fórmula 1** , y escuchar mucha música (principalmente Rap y Electrónica).
 
 ---
 
@@ -26,6 +25,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-FF7314?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-11437B?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
