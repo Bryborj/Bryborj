@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=%3E_+Hola%2C+soy+Bryan+Borges;%3E_+T%C3%A9cnico+en+Programaci%C3%B3n;%3E_+Full+Stack+Developer;%3E_+Entusiasta+de+Linux" alt="Typing SVG" />
-  <h3>Técnico en Programación | Estudiante de Ing. en Ciencias de la Computación | Full Stack Developer</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=%3E_+Hola%2C+soy+Bryan+Borges;%3E_+T%C3%A9cnico+en+Programaci%C3%B3n;%3E_+Developer;%3E_+Profundizando+en+Linux" alt="Typing SVG" />
+  <h3>Técnico en Programación | Estudiante de Ing. en Ciencias de la Computación | Progresando en Web Developer</h3>
   <p>Apasionado por el desarrollo web, la creación de aplicaciones y el ecosistema Linux.</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brybor-sh)
@@ -11,13 +11,14 @@
 
 ### Sobre mí
 
--  Soy **Técnico en Programación** y estudiante de **Ingeniería en Ciencias de la Computación**.
--  Actualmente trabajando como **Desarrollador Full Stack**.
--  Mi proyecto actual: Desarrollando una **Tienda online enfocada en modelos 3D** y más recursos.
--  Aprendiendo y profundizando en: 
+- Soy **Técnico en Programación** y estudiante de **Ingeniería en Ciencias de la Computación**.
+- Actualmente trabajando como **Desarrollador Web**.
+- Mi proyecto actual: Desarrollando una **Tienda online enfocada en modelos 3D** y más recursos.
+- Aprendiendo y profundizando en:
   - Desarrollo de aplicaciones de escritorio.
   - Administración de entornos **Linux** (Debian y RedHat) a nivel personal, empresarial y de servidor.
--  **Fuera de la pantalla:** Disfruto un buen café , las caminatas tranquilas con pláticas relajadas, los videojuegos de simulación y retro , ver la **Fórmula 1** , y escuchar mucha música (principalmente Rap y Electrónica).
+  - Desarrollo Web (principalmente frontend).
+- **Fuera de la pantalla:** Disfruto un buen café, las caminatas tranquilas con pláticas relajadas, los videojuegos de simulación y retro, ver la **Fórmula 1**, y escuchar mucha música (principalmente Rap y Electrónica).
 
 ---
 
