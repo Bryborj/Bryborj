@@ -1,11 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=%3E_+Hola%2C+soy+Bryan+Borges;%3E_+T%C3%A9cnico+en+Programaci%C3%B3n;%3E_+Developer;%3E_+Profundizando+en+Linux" alt="Typing SVG" />
-  <h3>Técnico en Programación | Estudiante de Ing. en Ciencias de la Computación | Progresando en Web Developer</h3>
+  <h3>Técnico en Programación | Ing. en Ciencias de la Computación | El limite es la imaginación</h3>
   <p>Apasionado por el desarrollo web, la creación de aplicaciones y el ecosistema Linux.</p>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brybor-sh)
-  [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zona-sh-portfolio.vercel.app/)
-</div>
 
 ---
 
@@ -65,5 +61,5 @@
 ### Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bryborj&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Estadistica de commits"/>
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=Bryborj&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Estadistica de commits"/>
 </div>
